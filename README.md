@@ -14,6 +14,7 @@
 - AI/ML: TensorFlow, OpenCV, pytorch
 - Backend: REST APIs, Firebase, sql, Graphql 
 - Tools: Linux, Git, Docker
+- framework: laravel, vue, vite, angular, nestjs
 
 ## Featured Projects
 **AI Sign Language Translator**  
