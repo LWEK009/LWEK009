@@ -36,3 +36,7 @@ excelent architecture, good idea, a new app futur app in algeria
 ## Contact
 - GitHub: https://github.com/LWEK009
 - Email: hazemabdelouakil@gmail.com
+
+
+ ## laungae
+ [![My Skills](https://skillicons.dev/icons?i=java,bash,python,cpp,dart,flutter,electron,css,html,js,npm,firebase,mysql,nodejs,git,figma,swift,linux,laravel,js,typescript,docker,vue,arduino,django,fastapi,htmx,kotlin,nodejs,mongodb,nestjs,opencv,php,postman,pytorch,unity,vite,,blender)](https://skillicons.dev)
