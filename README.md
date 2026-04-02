@@ -1,6 +1,6 @@
 # Hi, I'm Ouakil
 
-| Flutter & Android,IOS,web,desctop | Linux power user
+| Flutter & Android,IOS,web,desktop | Linux power user
 
 ## About me
 - mobile coss platform and AI systems
@@ -39,5 +39,5 @@ excelent architecture, good idea, a new app futur app in algeria
 
 
  ## laungae
- [![My Skills](https://skillicons.dev/icons?i=java,bash,python,cpp,dart,flutter,electron,css,html,js,npm,firebase,mysql,nodejs,git,figma,swift,linux,laravel,js,typescript,docker,vue,arduino,django,fastapi,htmx,kotlin,nodejs,mongodb,nestjs,opencv,php,postman,pytorch,unity,vite,kubernetes,c,vim,blender)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,bash,python,cpp,dart,flutter,electron,css,html,js,npm,firebase,mysql,nodejs,git,figma,swift,linux,laravel,js,typescript,docker,vue,arduino,django,fastapi,htmx,kotlin,shell,mongodb,nestjs,opencv,php,postman,pytorch,unity,vite,kubernetes,c,vim,blender)](https://skillicons.dev)
 
