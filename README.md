@@ -40,5 +40,5 @@ excelent architecture, good idea, a new app futur app in algeria
 
 
  ## laungae
- [![My Skills](https://skillicons.dev/icons?i=java,bash,python,cpp,dart,flutter,electron,css,html,js,npm,firebase,mysql,nodejs,git,figma,swift,linux,laravel,js,typescript,docker,vue,arduino,django,fastapi,htmx,kotlin,ubuntu,mongodb,nestjs,opencv,php,postman,pytorch,unity,vite,kubernetes,c,vim,blender)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,bash,python,cpp,dart,flutter,electron,css,html,kotlin,npm,firebase,mysql,nodejs,git,figma,swift,linux,laravel,js,typescript,docker,vue,arduino,django,fastapi,htmx,kotlin,ubuntu,mongodb,nestjs,opencv,php,postman,pytorch,unity,vite,kubernetes,c,vim,blender)](https://skillicons.dev)
 
